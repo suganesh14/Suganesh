@@ -22,6 +22,10 @@ public class EmployeeClass {
         System.out.println("My empEmail : suganesh14@gmail.com");
 	}
 	
+	private void empAddress() {
+		System.out.println("chennai");
+	}
+	
 	
 	public static void main(String[] args) {
 		
